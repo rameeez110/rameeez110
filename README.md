@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on DevOps & MLOps<br>🌱 I’m currently learning SwiftUI<br>👨‍💻 All of my projects are available at https://gigtech.co/<br>💬 Ask me about IOS, Swift, Objective - c,Flutter Dart, Android Kotlin & Java, NodeJS and Python<br>📫 How to reach me rameeez110@gmail.com
+👯 I’m looking to collaborate on Mobile Development & DevOps & MLOps<br>🌱 I’m currently learning SwiftUI<br>👨‍💻 All of my projects are available at https://gigtech.co/<br>💬 Ask me about IOS, Swift, Objective - c,Flutter Dart, Android Kotlin & Java, NodeJS and Python<br>📫 How to reach me rameeez110@gmail.com
 
 
 ## 🌐 Socials:
